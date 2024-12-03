@@ -6,7 +6,7 @@ Eccomerce Site using Next.js and the Shopify Storefront API.
 
 Next.js
 Tailwind CSS
-Storefront API / GraphQL
+Storefront API / GraphQL / json
 
 ## How to use
 
